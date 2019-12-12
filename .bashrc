@@ -36,7 +36,7 @@ alias n="nnn"
 alias dotfiles='git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 
 # Keep Colour Scheme
-#wal -R -q & #-nj&
+wal -R -q & #-nj&
 
 # Why Not get a fortune
 # Note this requires parrotsay 
